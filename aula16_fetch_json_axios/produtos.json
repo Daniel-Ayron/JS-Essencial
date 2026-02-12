@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nome": "Mouse Cobra Chroma RGB",
+        "marca": "Redragon",
+        "categoria": "Periféricos",
+        "preco": 159.90,
+        "quantidade": 25,
+        "emEstoque": true
+    },
+    {
+        "id": 2,
+        "nome": "Teclado Mecânico Alloy FPS",
+        "marca": "HyperX",
+        "categoria": "Periféricos",
+        "preco": 499.00,
+        "quantidade": 10,
+        "emEstoque": true
+    },
+    {
+        "id": 3,
+        "nome": "Monitor Ninja 24\" 144Hz",
+        "marca": "KaBuM!",
+        "categoria": "Monitores",
+        "preco": 899.00,
+        "quantidade": 0,
+        "emEstoque": false
+    },
+    {
+        "id": 4,
+        "nome": "Headset Cloud II",
+        "marca": "HyperX",
+        "categoria": "Áudio",
+        "preco": 599.90,
+        "quantidade": 18,
+        "emEstoque": true
+    },
+    {
+        "id": 5,
+        "nome": "Mousepad G640",
+        "marca": "Logitech",
+        "categoria": "Acessórios",
+        "preco": 129.00,
+        "quantidade": 50,
+        "emEstoque": true
+    },
+    {
+        "id": 6,
+        "nome": "Placa de Vídeo RTX 3060",
+        "marca": "MSI",
+        "categoria": "Hardware",
+        "preco": 2400.00,
+        "quantidade": 4,
+        "emEstoque": true
+    },
+    {
+        "id": 7,
+        "nome": "Cadeira Gamer Husky Hailstorm",
+        "marca": "KaBuM!",
+        "categoria": "Móveis",
+        "preco": 1100.00,
+        "quantidade": 7,
+        "emEstoque": true
+    },
+    {
+        "id": 8,
+        "nome": "Memória RAM Vengeance LPX 16GB",
+        "marca": "Corsair",
+        "categoria": "Hardware",
+        "preco": 350.00,
+        "quantidade": 30,
+        "emEstoque": true
+    },
+    {
+        "id": 9,
+        "nome": "Mouse DeathAdder V2",
+        "marca": "Razer",
+        "categoria": "Periféricos",
+        "preco": 399.00,
+        "quantidade": 0,
+        "emEstoque": false
+    },
+    {
+        "id": 10,
+        "nome": "Microfone Solocast",
+        "marca": "HyperX",
+        "categoria": "Áudio",
+        "preco": 380.00,
+        "quantidade": 12,
+        "emEstoque": true
+    }
+]
