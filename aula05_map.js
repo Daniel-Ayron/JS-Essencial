@@ -1,4 +1,4 @@
-// AULA 06 Map
+// AULA 05 Map
 
 //EXEMPLO BÁSICO
 // const numeros = [2, 3, 4, 5, 6, 7, 8]

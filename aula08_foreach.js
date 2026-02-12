@@ -1,4 +1,4 @@
-// AULA 9 ForEach
+// AULA 08 ForEach
 // O ForEach é um laço que vai iteirar sobre cada elemento de um array.
 // Ele tem como parametros o valor do elemento, o indice e o array original.
 // O forEach é um método que o JavaScript implementa em objetos que são considerados "coleções"

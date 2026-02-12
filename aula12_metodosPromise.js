@@ -1,4 +1,4 @@
-// AULA 13 Métodos de Promises
+// AULA 12 Métodos de Promises
 
 function rand(min, max){
     min = min*1000;

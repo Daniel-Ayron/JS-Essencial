@@ -1,4 +1,4 @@
-//AULA 8 filter + map + reduce
+//AULA 07 filter + map + reduce
 //Retorne a soma do dobro de todos os pares
 
 const numeros = [5, 55, 80, 27, 7, 8, 6, 18, 29, 40]

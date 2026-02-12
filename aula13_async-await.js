@@ -1,4 +1,4 @@
-// AULA 14 Async e Await
+// AULA 13 Async e Await
 // O termo 'async' é usado numa função para torná-la assíncrona. Isso quer dizer que a função
 // irá ocorrer paralelamente ao resto do código, não possuindo uma sincronia.
 // Ao fazer isso, temos acesso ao termo 'await', que será responsável por fazer 

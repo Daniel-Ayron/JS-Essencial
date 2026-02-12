@@ -1,4 +1,4 @@
-// //AULA 7 - Reduce
+// //AULA 06 - Reduce
 
 // //1 - Some todos os valores do array
 // //2 - Selecione somente os pares (substituindo filter)  -> Apenas teste, não indicado

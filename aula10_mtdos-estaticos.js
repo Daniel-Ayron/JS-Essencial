@@ -1,4 +1,4 @@
-// AULA 11  Métodos Estáticos
+// AULA 10  Métodos Estáticos
 // Métodos estáticos são aqueles que se relacionam com a classe no geral, não dependendo
 // de um objeto. Portanto, esse método não é instanciado, ou seja, não possui 'new'.
 // Por não se relacionar com o objeto, mas com a classe, métodos asssim não têm acesso a dados

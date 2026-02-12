@@ -1,4 +1,4 @@
-// AULA 12  Promises (Promesas)
+// AULA 11  Promises (Promesas)
 
 //Criando uma função para gerar números aleatórios, assim
 //simulando o tempo de processsamento de algo
