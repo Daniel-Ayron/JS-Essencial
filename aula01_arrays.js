@@ -4,7 +4,7 @@
 // tamanho = justamente o tamanho do array em si
 
 
-   const nomes = ['Ana', 'Sofia', 'Ricardo'];
+   const nomes = ['Ana', 'Flavia', 'Ricardo'];
    const notas = [10, 7, 6];
    const resultados = [ nomes[1] + notas[1], nomes[0] + notas[0], nomes[2] + notas[2] ]
    const [resultadoUm, resultadoDois, resultadoTres] = resultados
